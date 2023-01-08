@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\pertemuan-3\hitungbangundatar\hitungbangundatar\bin\Debug\hitungbangundatar.dll
+C:\Users\user\source\repos\pertemuan-3\hitungbangundatar\hitungbangundatar\bin\Debug\hitungbangundatar.pdb
+C:\Users\user\source\repos\pertemuan-3\hitungbangundatar\hitungbangundatar\obj\Debug\hitungbangundatar.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\pertemuan-3\hitungbangundatar\hitungbangundatar\obj\Debug\hitungbangundatar.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\pertemuan-3\hitungbangundatar\hitungbangundatar\obj\Debug\hitungbangundatar.dll
+C:\Users\user\source\repos\pertemuan-3\hitungbangundatar\hitungbangundatar\obj\Debug\hitungbangundatar.pdb
